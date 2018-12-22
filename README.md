@@ -27,3 +27,19 @@ Besides that, I found the syntax easy to read/understand. Even though my project
 Also my algorithm was terrible for Part 2. Don't hate me.
 
 Rating: 3/5
+
+## Day 3
+
+**Language: Kotlin**
+
+Kotlin was my language of choice for Day 3. It was surprisingly quick to get going with Kotlin. Installing the tools were easy and didn't require the use of IntelliJ or anything like that. I used `kotlinc` to compile inline and then run the jar file with `java -jar`.
+
+The compiler errors were very understandable. If something was wrong at build time in my code, the error was good enough for me to fix it quickly. This helped improved my development speed while using Kotlin, as I didn't have to look any errors up.
+
+One thing I really liked about Kotlin was its native immutability with `var` vs `val`. The `val` keyword was idential to the same keyword in Scala. It was also very easy to unpack optional or potentially null values with either the `!!` or `?` operators.
+
+The types were also very readable. They were similar to types defined in TypeScript. This was a nice convenience as I write a lot of TypeScript for my day job.
+
+I didn't look into any of the cross compilation features of Kotlin, but it's pretty cool I can use this language to write web apps or Android apps. The ability to write cross platform applications with a tool built-in to the language instead of using a 3rd party library of components is huge. I will definitely consider using Kotlin for writing apps in the future.
+
+Rating: 5/5
