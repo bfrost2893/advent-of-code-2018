@@ -43,3 +43,11 @@ The types were also very readable. They were similar to types defined in TypeScr
 I didn't look into any of the cross compilation features of Kotlin, but it's pretty cool I can use this language to write web apps or Android apps. The ability to write cross platform applications with a tool built-in to the language instead of using a 3rd party library of components is huge. I will definitely consider using Kotlin for writing apps in the future.
 
 Rating: 5/5
+
+## Day 4
+
+**Language: Ruby **
+
+Ruby was awesome. My favorite so far. It felt very expressive and forgiving. I was especially impressed with Ruby symbols when it comes to language features. I didn't spend anytime setting up Ruby gems or dependencies. I opted ot use the builtin version of Ruby on macos, which ended up being fine.
+
+Rating: 5/5
