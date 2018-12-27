@@ -51,3 +51,15 @@ Rating: 5/5
 Ruby was awesome. My favorite so far. It felt very expressive and forgiving. I was especially impressed with Ruby symbols when it comes to language features. I didn't spend anytime setting up Ruby gems or dependencies. I opted ot use the builtin version of Ruby on macos, which ended up being fine.
 
 Rating: 5/5
+
+## Day 5
+
+**Language: C++**
+
+It has been since college since I have touched C++. This feels like an enternity even though it is only 3 years. However, coming back to it felt surprisingly natural. There's something about coding in C++ that feels, how do you say it... _clean_. Everything kind of just fits together really well. Even though it looks verbose, and you sometimes need to do things on your own, I always end up really liking my code and also having a ton of fun writing it. I am being sincere when I say coding JavaScript is definitely not as fun as coding C++.
+
+The beef of my solution for this problem revolved around the stack. This problem was screaming at me to use a stack, and I really like problems that naturally work with this data structure. It reminded me a lot of tetris or the RPN calculator. I did this in a single pass solution for part 1 initially, but refactored my solution so that Part 1 and Part 2 were reading from the same input such that it was not read in twice. When reducing the polymer units in the chain, I checked if the absolute value of the difference in ascii values was equal to 32, and if it was, then pop off the stack and continue on. For part 2, I filtered the input polymer chain by iterating through an alphabet string and filtering out that letter and its capital counterpart from the input polymer. I then just re-ran the stack algorithm.
+
+This problem was super fun. Oh, and I had the issue of not copying the whole input... it really is quite massive. Make sure to download it!
+
+Rating: 5/5
